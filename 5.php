@@ -1,0 +1,11 @@
+<html>
+ <head>
+  <title>PHP-Test</title>
+ </head>
+ <body>
+    <?php
+        require('file2.php');
+        include('file1.php');
+    ?>
+ </body>
+</html>
